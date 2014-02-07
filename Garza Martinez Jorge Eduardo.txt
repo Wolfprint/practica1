@@ -1,0 +1,7 @@
+para ignorar un archivo en el siguiente commit
+tienes dos opciones mediante la edicion de un archivo
+.gitignore el cual se posiciona en el directorio raiz 
+y contiene las reglas de exclusion.
+
+la otra forma es especificar un archivo mediante el 
+comando git -ignore
